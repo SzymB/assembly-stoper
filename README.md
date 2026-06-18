@@ -33,3 +33,8 @@ Projekt wykorzystuje architekturę `.COM` (model pamięci Tiny), w której kod, 
 
 
 Użyj klawisza 'v', aby wystartować/zatrzymać stoper, oraz 'b', aby wyjść z programu.
+
+## Galeria
+![stoper](assets/stoper.png)
+![start](assets/start.png)
+![stop](assets/stop.png)
